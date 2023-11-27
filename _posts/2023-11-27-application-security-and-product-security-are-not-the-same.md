@@ -15,5 +15,5 @@ The mind map below represents my quick take on the domains and subdomains that h
 
 {% include image_full.html imageurl="/images/posts/Product-Security-Mind-Map.png" title="Product Security Mind Map" caption="Product Security Mind Map" %}
 
-<iframe src="https://www.youtube.com/embed/ynwzsGeQXPw?si=Ts-4qh79_iLyfsP0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/T3HzTOCv8HA?si=TcqPCbu_69LzM-D8" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://youtu.be/T3HzTOCv8HA">Application Security and Product Security are NOT the same</a> from <a href="https://www.youtube.com/@ProductSecurity">ProdSec</a> on <a href="https://youtube.com">YouTube</a>.</p>
