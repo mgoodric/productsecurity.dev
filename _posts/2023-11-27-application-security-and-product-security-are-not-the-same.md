@@ -26,5 +26,5 @@ Among the items listed above, the high level categories are:
 
 The video below covers all of this at a high level, but we will be diving deep into each of these areas in future posts and videos.
 
-<iframe src="https://www.youtube.com/embed/T3HzTOCv8HA?si=TcqPCbu_69LzM-D8" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://youtu.be/T3HzTOCv8HA">Application Security and Product Security are NOT the same</a> from <a href="https://www.youtube.com/@ProductSecurity">ProdSec</a> on <a href="https://youtube.com">YouTube</a>.</p>
+<iframe src="https://www.youtube.com/embed/y5h-JudEnIg?si=m3gW9aLR8--ATm6L" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://youtu.be/y5h-JudEnIg">Application Security and Product Security are NOT the same</a> from <a href="https://www.youtube.com/@ProductSecurity">ProdSec</a> on <a href="https://youtube.com">YouTube</a>.</p>
